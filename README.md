@@ -5,8 +5,11 @@ This project is a comprehensive analysis of social media engagement data, aiming
 The primary objective of this analysis was to understand social media engagement patterns within the provided dataset. The project aimed to answer key questions by examining various factors, including:
 
 Engagement by Platform: Which platforms perform best for specific metrics like likes, comments, and shares?
+
 Content Type Effectiveness: Which types of posts, such as polls and videos, drive the most engagement?
+
 Optimal Posting Times: When are the best times and days to post to maximize audience interaction?
+
 Sentiment Impact: How does the sentiment of a post affect engagement levels?
 
 The methodology involved using descriptive statistics and grouping data by categorical variables to calculate average engagement metrics. Visualizations were created using Power BI to illustrate trends and comparisons.
@@ -27,8 +30,11 @@ Dashboard.png: A screenshot of the interactive Power BI dashboard.
 Based on the analysis, here are some of the main insights:
 
 Platform Performance: Instagram leads in average likes , while Facebook shows strong performance in comments and shares
+
 Content Type Effectiveness: Polls and videos consistently generate the highest engagement among post types. Polls have the highest average likes and strong shares , while videos have high average likes and comments.
+
 Sentiment Impact: Posts with a negative sentiment surprisingly achieve the highest average engagement, especially in likes and shares.
+
 Optimal Posting Times: Engagement varies significantly by day and hour. Sundays show the highest average engagement, particularly in likes and shares. The analysis also identified peak hours at 1 AM, 9 AM, and 9 PM, which show significantly higher average likes and shares.
 
 
